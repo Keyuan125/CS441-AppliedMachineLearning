@@ -1,0 +1,2 @@
+scipy==1.5.3
+jupyter_client==6.1.11

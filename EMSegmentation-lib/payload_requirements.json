@@ -1,0 +1,4 @@
+{
+	"comment": "The files property is a list of additional file paths (relative to this homework's notebook dir) that will be bundled into the student's ipynb metadata each time they save.",
+	"files": []
+}
