@@ -1,4 +1,4 @@
-# CS411-AppliedMachineLearning
+# CS441-AppliedMachineLearning
 
 This is my coding assignment for UIUC-CS441-Applied Machine Learning
 
